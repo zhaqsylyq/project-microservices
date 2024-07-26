@@ -1,1 +1,1 @@
-This repository contains an implementation of a ___ backend system using the Spring Framework and a microservice architecture. The project leverages various technologies to ensure scalability, security, and maintainability.
+1) This repository contains an implementation of a ___ backend system using the Spring Framework and a microservice architecture. The project leverages various technologies to ensure scalability, security, and maintainability.
